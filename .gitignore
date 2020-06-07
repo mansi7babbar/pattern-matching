@@ -1,0 +1,21 @@
+# sbt
+bin/
+target
+build/
+
+# intellij idea
+.idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+# other?
+.history
+.scala_dependencies
+.cache
+.cache-main
+
+# general
+*.class
